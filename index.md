@@ -6,7 +6,7 @@
 </div>
 
 1. [Introduktion til 3. semester SWA]() 
-1. [Application Programming Interfaces - REST API](REST.md) 
+1. [Application Programming Interfaces - REST API](rest.md) 
 1. [Frontend Framework I - reactjs](reactjs1.md) 
 1. [Frontend Framework II - reactjs]() 
 1. [Spring Boot framework]() 

@@ -18,3 +18,11 @@
 * [Hvad skal i lære dette semester]()
 * []()
 ### Øvelser
+
+
+<!-- underviser
+
+* Overblik over hvad i har haft fortalt udfra mit synspunkt
+
+
+-->

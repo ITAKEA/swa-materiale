@@ -4,9 +4,11 @@
 # Frontend Framework I - reactjs
 
 ## Læringsmål
-
+* Forstå grundlæggende ide bag reactjs
 
 ## Forberedelse
+* Læs denne [Reactjs Quick Start](https://react.dev/learn) guide
+* Lav følgende [tutorial](https://react.dev/learn/tutorial-tic-tac-toe) inden vi mødes i klassen
 
 ## Dagens indhold
 

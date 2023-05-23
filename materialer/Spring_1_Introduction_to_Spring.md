@@ -1,3 +1,6 @@
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="script.js"></script>
+
 # Spring 1: Introduction to Spring
 
 Kode fra undervisningen:
